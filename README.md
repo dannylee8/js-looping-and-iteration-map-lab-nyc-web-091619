@@ -3,7 +3,7 @@
 ## Problem Statement
 
 The `map` method is one of the core iterator methods in JavaScript. It's a
-powerful tool for creating a new collection from an another collection whose
+powerful tool for creating a new collection from another collection whose
 members have undergone the change you pass in as an argument.
 
 ## Objectives
